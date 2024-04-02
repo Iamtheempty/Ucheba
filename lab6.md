@@ -33,7 +33,7 @@ print("Список из введенных чисел:", numbers_list)
 print("Кортеж из введенных чисел:", numbers_tuple)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab6/lab6/1.png).
 
 
 ## Выводы
@@ -62,7 +62,7 @@ for idx, tup in enumerate(inputs):
     print(f"Для входных данных {tup} и элемента {element}: {result}")
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab6/lab6/2.png).
 
 ## Выводы
 
@@ -90,7 +90,7 @@ for key in sorted(result_dict.keys()):
     print(f"Цифра: {key}, Количество: {result_dict[key]}")
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab6/lab6/3.png).
 
 ## Выводы
 
@@ -124,7 +124,7 @@ print(find_employee_records((1, 8, 3, 4, 8, 8, 6, 2),8,))
 print(find_employee_records((1, 3, 8, 5, 1, 2, 7), 8))
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab6/lab6/4.png).
 
 ## Выводы
 
@@ -156,7 +156,7 @@ out3 = ["Keyboard", "Earphones"]
 assert sort(three, out3) == ["AppleGlass", "Mouse"]
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab6/lab6/5.png).
 
 ## Выводы
 
