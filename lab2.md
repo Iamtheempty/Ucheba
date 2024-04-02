@@ -28,7 +28,7 @@
 print(10 > 13)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab2/lab2/1.bmp).
 
 
 ## Выводы
