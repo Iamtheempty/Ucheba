@@ -29,7 +29,7 @@ for _ in range(6):
 print(result)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab3/lab3/1.png).
 
 
 ## Выводы
@@ -46,7 +46,7 @@ for letter in reversed(phrase):
     print(letter)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab3/lab3/2.png).
 
 ## Выводы
 
@@ -69,7 +69,7 @@ else:
         print("Число находится в диапазоне от 6 до 10")
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab3/lab3/3.png).
 
 ## Выводы
 
@@ -102,7 +102,7 @@ else:
     print("Предложение не заканчивается на 'end'")
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab3/lab3/4.png).
 
 ## Выводы
 
@@ -123,7 +123,7 @@ while counter < 10:
     counter += 1
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab3/lab3/5.png).
 
 ## Выводы
 
