@@ -51,7 +51,7 @@ if __name__ == '__main__':
     print(f"Program execution time {timecosts}")
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab4/lab4/1.png).
 
 
 ## Выводы
@@ -79,7 +79,7 @@ if __name__ == '__main__':
     rolldice()  
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab4/lab4/2.png).
 
 ## Выводы
 
@@ -101,7 +101,7 @@ current_time = datetime.datetime.now()
 print(f"Финальное время: {current_time.strftime('%H:%M:%S')}") 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab4/lab4/3.png).
 
 ## Выводы
 
@@ -124,7 +124,7 @@ if __name__ == '__main__':
     print(f'Среднее арифметическое: {avg}')
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab4/lab4/4.png).
 
 ## Выводы
 
@@ -153,7 +153,7 @@ if __name__ == '__main__':
     print(f"Площадь треугольника с сторонами {a}, {b}, {c} равна: {area}")
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab4/lab4/5.png).
 
 ## Выводы
   
