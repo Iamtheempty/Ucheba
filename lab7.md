@@ -38,7 +38,7 @@ print(f"Самое часто встречающееся слово: {most_commo
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab7/lab7/1.png).
 
 
 ## Выводы
@@ -85,7 +85,7 @@ while True:
         break
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab7/lab7/2.png).
 
 ## Выводы
 
@@ -113,7 +113,7 @@ count_statistics(file_path)
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab7/lab7/3.png).
 
 ## Выводы
 
@@ -140,7 +140,7 @@ censored_output = censor_sentence(input_sentence, banned_words)
 print(censored_output)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab7/lab7/4.png).
 
 ## Выводы
 
@@ -164,7 +164,7 @@ with open('Crytwo.txt', 'w') as file:
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab7/lab7/5.png).
 
 ## Выводы
 
