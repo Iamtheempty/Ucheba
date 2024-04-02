@@ -41,7 +41,7 @@ if __name__ == '__main__':
     print()
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab10/lab10/1.png).
 
 
 ## Выводы
@@ -77,7 +77,7 @@ except Exception as e:
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab10/lab10/2.png).
 
 ## Выводы
 
@@ -104,7 +104,7 @@ add_two_to_input()
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab10/lab10/3.png).
 
 ## Выводы
 
@@ -136,7 +136,7 @@ view_profile("Андрей")
 change_password(None)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab10/lab10/4.png).
 
 ## Выводы
 Успешный заход в профиль или же смена пароля
@@ -172,7 +172,7 @@ except LoginError as accept:
     print(f"Login Error: {accept}")
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab10/lab10/5.png).
 
 ## Выводы
 Успешный вход или не заход при попытки войти в аккаунт.
