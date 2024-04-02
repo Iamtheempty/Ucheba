@@ -98,7 +98,7 @@ gardener.work()
 gardener.harvest()
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab9/lab9/1.png).
 
 
 ## Выводы
