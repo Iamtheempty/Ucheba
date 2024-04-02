@@ -29,7 +29,7 @@ roses = Flowers(3)
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab8/lab8/1.png).
 
 
 ## Выводы
@@ -50,7 +50,7 @@ print(roses.color)
 print(roses.length)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab8/lab8/2.png).
 
 ## Выводы
 
@@ -76,7 +76,7 @@ print(roses.name)
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab8/lab8/3.png).
 
 ## Выводы
 
@@ -102,7 +102,7 @@ roses.sunpower()
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab8/lab8/4.png).
 
 ## Выводы
 
@@ -138,7 +138,7 @@ print("Tulipe length:", tulipe.length)
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab8/lab8/5.png).
 
 ## Выводы
 
