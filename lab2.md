@@ -28,7 +28,7 @@
 print(10 > 13)
 ```
 ### Результат.
-![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab2/lab2/1.bmp).
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab2/lab2/1.png).
 
 
 ## Выводы
@@ -43,7 +43,7 @@ a, b, c = 10, 20, 30
 print(a, b,c)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab2/lab2/2.png).
 
 ## Выводы
 
@@ -56,7 +56,7 @@ print(a, b,c)
 х = int (input("Введите целое число: "))
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab2/lab2/3.png).
 
 ## Выводы
 
@@ -70,7 +70,7 @@ a = "Andrew"
 print(a*4)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab2/lab2/4.png).
 
 ## Выводы
 
@@ -85,7 +85,7 @@ print(f"Сегодня {day} {month} {year}.", end=' Всего хорошего
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab2/lab2/5.png).
 
 ## Выводы
 
@@ -98,7 +98,7 @@ print(f"Сегодня {day} {month} {year}.", end=' Всего хорошего
 print('Hello', 'World', sep=' my ')
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab2/lab2/6.png).
 
 ## Выводы
 
@@ -113,7 +113,7 @@ print(len(sentence))
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab2/lab2/7.png).
 
 ## Выводы
 
@@ -128,7 +128,7 @@ print(sentence.lower())
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab2/lab2/8.png).
 
 ## Выводы
 
@@ -142,7 +142,7 @@ a, b = 15, 15
 print(a+b)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab2/lab2/9.png).
 
 ## Выводы
 
@@ -156,7 +156,7 @@ sentence = 'HELLO HOW ARE YOU'
 print(sentence.lower())
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab2/lab2/10.png).
 
 ## Выводы
 
